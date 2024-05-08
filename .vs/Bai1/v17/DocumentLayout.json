@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\LAB\\LAB1\\Bai1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{64B9ED44-85D4-42F5-A328-71ED0284E125}|Bai3\\Bai3.csproj|d:\\lab\\lab1\\bai1\\bai3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64B9ED44-85D4-42F5-A328-71ED0284E125}|Bai3\\Bai3.csproj|solutionrelative:bai3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B9ED44-85D4-42F5-A328-71ED0284E125}|Bai3\\Bai3.csproj|d:\\lab\\lab1\\bai1\\bai3\\pheptoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64B9ED44-85D4-42F5-A328-71ED0284E125}|Bai3\\Bai3.csproj|solutionrelative:bai3\\pheptoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B9ED44-85D4-42F5-A328-71ED0284E125}|Bai3\\Bai3.csproj|d:\\lab\\lab1\\bai1\\bai3\\thongtinab.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64B9ED44-85D4-42F5-A328-71ED0284E125}|Bai3\\Bai3.csproj|solutionrelative:bai3\\thongtinab.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FBC41DD-7A80-428F-8731-89D4119CD55D}|Bai2\\Bai2.csproj|D:\\LAB\\LAB1\\Bai1\\bai2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FBC41DD-7A80-428F-8731-89D4119CD55D}|Bai2\\Bai2.csproj|solutionrelative:bai2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39D20B38-6F58-4047-964A-EB47E47A70F6}|Bai4\\Bai4.csproj|D:\\LAB\\LAB1\\Bai1\\bai4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39D20B38-6F58-4047-964A-EB47E47A70F6}|Bai4\\Bai4.csproj|solutionrelative:bai4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B31D8E5-0804-461C-B495-CC87F1F19DF2}|Bai1\\Bai1.csproj|D:\\LAB\\LAB1\\Bai1\\bai1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B31D8E5-0804-461C-B495-CC87F1F19DF2}|Bai1\\Bai1.csproj|solutionrelative:bai1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PhepToan.cs",
+              "DocumentMoniker": "D:\\LAB\\LAB1\\Bai1\\Bai3\\PhepToan.cs",
+              "RelativeDocumentMoniker": "Bai3\\PhepToan.cs",
+              "ToolTip": "D:\\LAB\\LAB1\\Bai1\\Bai3\\PhepToan.cs",
+              "RelativeToolTip": "Bai3\\PhepToan.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBgAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T15:31:34.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ThongTinAB.cs",
+              "DocumentMoniker": "D:\\LAB\\LAB1\\Bai1\\Bai3\\ThongTinAB.cs",
+              "RelativeDocumentMoniker": "Bai3\\ThongTinAB.cs",
+              "ToolTip": "D:\\LAB\\LAB1\\Bai1\\Bai3\\ThongTinAB.cs",
+              "RelativeToolTip": "Bai3\\ThongTinAB.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T15:31:22.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\LAB\\LAB1\\Bai1\\Bai3\\Program.cs",
+              "RelativeDocumentMoniker": "Bai3\\Program.cs",
+              "ToolTip": "D:\\LAB\\LAB1\\Bai1\\Bai3\\Program.cs",
+              "RelativeToolTip": "Bai3\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T09:07:03.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\LAB\\LAB1\\Bai1\\Bai2\\Program.cs",
+              "RelativeDocumentMoniker": "Bai2\\Program.cs",
+              "ToolTip": "D:\\LAB\\LAB1\\Bai1\\Bai2\\Program.cs",
+              "RelativeToolTip": "Bai2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T09:05:50.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\LAB\\LAB1\\Bai1\\Bai4\\Program.cs",
+              "RelativeDocumentMoniker": "Bai4\\Program.cs",
+              "ToolTip": "D:\\LAB\\LAB1\\Bai1\\Bai4\\Program.cs",
+              "RelativeToolTip": "Bai4\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAYwCYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T09:04:23.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\LAB\\LAB1\\Bai1\\Bai1\\Program.cs",
+              "RelativeDocumentMoniker": "Bai1\\Program.cs",
+              "ToolTip": "D:\\LAB\\LAB1\\Bai1\\Bai1\\Program.cs",
+              "RelativeToolTip": "Bai1\\Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAwBYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T09:03:46.414Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
